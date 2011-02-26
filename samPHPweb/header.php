@@ -38,8 +38,7 @@ function PictureFail(picname) {
  <? require("nav.php"); ?>
  <br>
  <br>
- <? require("partners.php"); ?>
- 
+
  </td>
  <td align="left" valign="top" width="99%">
 
